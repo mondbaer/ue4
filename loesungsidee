@@ -1,0 +1,6 @@
+UE1
+
+Es muss ein Progamm für das Standesamt geschrieben werden in der man Personen verheiraten oder scheiden
+lassen kann. Beim verheiraten wird auf das Alter und das Geschlecht geachtet. Die Klasse Person beinhaltet
+Vorname, Nachname, Geburtsdatum, Trennungsgrund und der Partner. Wenn es zu einer Hochzeit kommt, wird
+eine Referenz von einer Person zu der anderen erstellt.

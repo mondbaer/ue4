@@ -1,6 +1,13 @@
-UE1
+﻿UE1
 
 Es muss ein Progamm für das Standesamt geschrieben werden in der man Personen verheiraten oder scheiden
 lassen kann. Beim verheiraten wird auf das Alter und das Geschlecht geachtet. Die Klasse Person beinhaltet
 Vorname, Nachname, Geburtsdatum, Trennungsgrund und der Partner. Wenn es zu einer Hochzeit kommt, wird
 eine Referenz von einer Person zu der anderen erstellt.
+
+Ue2
+
+Für das Uml für die Bank werden die Klassen Bank, Filialen, Kunde und Konto benötigt. Bei den Filialen
+sind die Adresse und Bankleitzahl wichtige Attribute. Beim Kunden ebenfalls die Adresse. Die Fialialen
+können Kunden und Konten erstellen. Die Konten besitzt die Attribute Kontonr und auf dem Konto kann Geld
+agbehoben und Geld eingezahlt werden. Das überweisen von 2 Konten muss auch möglich sein. 
